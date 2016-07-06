@@ -1,0 +1,1 @@
+REST service providing info about git commit authors
